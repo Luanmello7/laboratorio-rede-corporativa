@@ -2,7 +2,6 @@
 
 Projeto educacional de infraestrutura e suporte técnico N2, realizado no Cisco Packet Tracer. Simula três departamentos e demonstra segmentação lógica, serviços de rede, política de acesso e diagnóstico de incidentes.
 
-> **Escopo e evidências:** as configurações e os testes descritos abaixo foram acompanhados durante a construção do laboratório, por meio de capturas e resultados compartilhados. O arquivo `.pkt` foi recebido, mas não pôde ser inspecionado diretamente fora do Cisco Packet Tracer. A validação final deve ser reproduzida no simulador antes da publicação.
 
 ## Arquitetura
 
